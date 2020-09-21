@@ -1,2 +1,2 @@
-# Sisyfos
-Sisyfos' work
+# Sisyphus
+Sisyphus
